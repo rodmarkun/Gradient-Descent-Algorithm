@@ -8,7 +8,7 @@ The algorithm starts with an initial set of parameters and calculates the deriva
 
 The algorithm repeats the process until **convergence**, where the cost function does not significantly change between iterations or reaches a predefined number of iterations.
 
-
+![Pasted image 20230301172457](https://user-images.githubusercontent.com/75074498/222212590-83b2b44b-2424-461e-bde4-d742730cede9.png)
 
 There are two types of gradient descent algorithms: batch gradient descent and stochastic gradient descent. Batch gradient descent calculates the derivative of the cost function over the entire training dataset at each iteration, while stochastic gradient descent calculates the derivative for a randomly training data at each iteration.
 
